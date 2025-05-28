@@ -1,0 +1,111 @@
+{"input": "What is the purpose of the undergraduate education regulation?", "output": "It defines the procedures and principles of undergraduate education at İzmir Institute of Technology."}
+{"input": "How many semesters are in an academic year?", "output": "An academic year consists of two semesters: Fall and Spring, each lasting 16 weeks."}
+{"input": "Can students take courses in the Summer term?", "output": "Yes, a Summer term can be opened upon the Senate's approval, but it is not considered a regular semester."}
+{"input": "Who prepares the education plans?", "output": "Each department prepares its own education plan, finalized by the Academic Board and Senate."}
+{"input": "What is a prerequisite course?", "output": "A prerequisite course must be successfully completed before enrolling in a related course."}
+{"input": "What is a co-requisite course?", "output": "A co-requisite course must be taken simultaneously with another specified course."}
+{"input": "What is the credit value of a course?", "output": "It is the sum of weekly theoretical hours plus half of the practical hours."}
+{"input": "Do non-credit courses affect GPA?", "output": "No, non-credit courses are not included in GPA calculation."}
+{"input": "Can first-year students take upper-level courses?", "output": "No, they can only take courses listed for the first year."}
+{"input": "What happens if a student has a GPA below 2.00?", "output": "Their course load may be reduced by up to two courses upon advisor approval."}
+{"input": "What is the maximum course load increase based on GPA?", "output": "Students with a GPA ≥ 2.0 may add 2 courses; GPA ≥ 2.5 may add 3."}
+{"input": "Is attendance mandatory?", "output": "Yes, attendance to lectures, labs, and exams is mandatory."}
+{"input": "Can failed students repeat a course?", "output": "Yes, students must repeat courses they have failed."}
+{"input": "What is a double major program?", "output": "It allows students to pursue a second undergraduate degree while completing their main program."}
+{"input": "What is a minor program?", "output": "It allows students to gain knowledge in a secondary field and awards a certificate upon completion."}
+{"input": "How many midterms are required in a course?", "output": "At least one midterm and one final exam per semester."}
+{"input": "Can students appeal exam results?", "output": "Yes, only for material errors within three working days of result announcement."}
+{"input": "How is GPA calculated?", "output": "By dividing the sum of grade points by total credit hours taken."}
+{"input": "What GPA is required to pass?", "output": "A GPA of at least 2.00 is required to be considered successful."}
+{"input": "Who qualifies as an honor student?", "output": "Students with a semester GPA of 3.00–3.49 are honor; 3.50–4.00 are high honor."}
+{"input": "What does grade 'AA' mean?", "output": "It means a score between 90–100 and carries a coefficient of 4.0."}
+{"input": "What does grade 'FF' mean?", "output": "It indicates failure with a score below 50 and a coefficient of 0.0."}
+{"input": "What does 'NA' stand for?", "output": "It means the student did not meet the attendance requirement."}
+{"input": "What is an 'I' grade?", "output": "It is given for incomplete coursework due to valid reasons like illness."}
+{"input": "Can students withdraw from courses?", "output": "Yes, within the first 10 weeks of the semester under certain rules."}
+{"input": "What is the maximum number of course withdrawals?", "output": "Six throughout the undergraduate study."}
+{"input": "Can students withdraw from a course in the first year?", "output": "No, withdrawals are not allowed in the first two semesters."}
+{"input": "Can students take extra courses to improve GPA?", "output": "Yes, under certain GPA conditions and advisor approval."}
+{"input": "What is the minimum GPA to proceed to upper semesters?", "output": "A GPA of at least 1.80 after the second semester."}
+{"input": "What happens if GPA remains below 2.00?", "output": "The student is considered unsuccessful and must repeat failed courses."}
+{"input": "What is the diploma requirement?", "output": "Successful completion of all program courses and a GPA ≥ 2.00."}
+{"input": "What is the GPA for high honors at graduation?", "output": "A GPA of 3.50 or higher."}
+{"input": "What is the diploma date?", "output": "The date of the Faculty Board decision confirming graduation."}
+{"input": "Can a student receive an associate diploma before graduation?", "output": "Yes, upon completing the first 4 semesters and GPA ≥ 2.00."}
+{"input": "What is the regular duration of undergraduate study?", "output": "Four academic years or eight semesters."}
+{"input": "What is the maximum duration of study?", "output": "Seven academic years or fourteen semesters."}
+{"input": "Are leave-of-absence semesters counted?", "output": "No, only active and unregistered semesters count."}
+{"input": "What happens if a student exceeds maximum duration?", "output": "They may be given additional exams or time to complete requirements."}
+{"input": "What is a make-up exam?", "output": "An additional exam given to students with a valid excuse for missing the original."}
+{"input": "What is the policy on course conflict?", "output": "Courses must not conflict, except for retaken failed courses."}
+{"input": "How long are exam papers archived?", "output": "For five years by the instructor."}
+{"input": "Who implements the regulation?", "output": "The Rector of İzmir Institute of Technology."}
+{"input": "What is the 'W' grade?", "output": "It indicates that a student has withdrawn from a course."}
+{"input": "How is exam grading determined?", "output": "Based on midterms, final exams, attendance, and coursework."}
+{"input": "What happens if a student doesn't take makeup exams?", "output": "They may lose eligibility to graduate or continue."}
+{"input": "What is the rule on extra time for graduation?", "output": "A student may receive one-time additional time or exams for max two failed courses."}
+{"input": "What is the rule for unlimited exams?", "output": "Students who fail only one course may get unlimited exam rights."}
+{"input": "Who can get exam result corrections?", "output": "Only errors in grading calculations can be appealed."}
+{"input": "What is a prerequisite course?", "output": "A course that must be successfully completed before enrolling in a subsequent related course."}
+{"input": "What is a co-requisite course?", "output": "A course that must be taken simultaneously with another specified course."}
+{"input": "What does the letter grade 'DD' mean?", "output": "It indicates a passing grade with a score between 60-64 and a coefficient of 1.0."}
+{"input": "Can a student take more courses than required?", "output": "Yes, based on GPA and advisor approval, students can increase their course load."}
+{"input": "What is a failed course?", "output": "A course where a student receives a grade of FF, FD, U, or NA."}
+{"input": "What does the 'EX' grade mean?", "output": "It means exempt — the student is considered to have completed the course content through prior learning."}
+{"input": "What does the 'S' grade mean?", "output": "It means satisfactory in a non-credit course."}
+{"input": "What does the 'U' grade mean?", "output": "It means unsatisfactory in a non-credit course."}
+{"input": "What does 'I' (Incomplete) grade require?", "output": "It is given for valid reasons like illness and must be resolved within three working days after grade submission."}
+{"input": "Can the 'I' grade deadline be extended?", "output": "Yes, upon the academic board's approval, it can be extended to the next semester's course registration."}
+{"input": "What happens if the 'I' grade is not updated?", "output": "It automatically turns into an FF or U grade."}
+{"input": "Who decides on double major and minor program rules?", "output": "The University Senate defines the rules for these programs."}
+{"input": "When can students receive a 'W' grade?", "output": "Only within the first 10 weeks of the semester, with advisor and instructor approval."}
+{"input": "What does the 'NI' grade indicate?", "output": "It shows a course that does not count towards GPA or program requirements."}
+{"input": "How many courses can students withdraw from?", "output": "A student can withdraw from at most one course per semester and six during their entire undergraduate study."}
+{"input": "Can students withdraw from a failed course?", "output": "No, students cannot withdraw from courses they have previously failed."}
+{"input": "What is a Faculty Board?", "output": "A governing academic body responsible for decisions in each faculty."}
+{"input": "What is the Senate?", "output": "The Senate is the highest academic body of the university responsible for academic policies."}
+{"input": "Can students retake courses they already passed?", "output": "Yes, with advisor approval and within program rules."}
+{"input": "What is the maximum semester load for students?", "output": "Defined by the program's standard plan; it may be increased for successful students."}
+{"input": "How are overlapping courses handled?", "output": "They should not overlap unless repeating failed courses as permitted."}
+{"input": "Can students improve their GPA after final semester?", "output": "Yes, by retaking up to two courses if GPA is below 2.00."}
+{"input": "Are there unlimited attempts for any course?", "output": "Yes, for one remaining failed course, students may be given unlimited exam rights."}
+{"input": "Who approves course withdrawals?", "output": "The instructor, advisor, and department chair (if needed)."}
+{"input": "When is a student’s diploma considered official?", "output": "On the date of the Faculty Board decision confirming graduation."}
+{"input": "What is the education period for associate diplomas?", "output": "Completion of the first four semesters with GPA ≥ 2.00."}
+{"input": "Do students receive an official certificate for minors?", "output": "Yes, a certificate is awarded upon successful completion."}
+{"input": "Can students from other universities take courses?", "output": "Yes, under the status of special student with proper conditions."}
+{"input": "What does 'maximum education duration' mean?", "output": "The total period allowed to complete an undergraduate program — usually seven academic years."}
+{"input": "Can attendance be excused?", "output": "Only under university-approved valid reasons like illness or exchange programs."}
+{"input": "What is İzmir Institute of Technology?", "output": "İzmir Institute of Technology, also known as İYTE, is a public research university in Turkey specializing in science and engineering."}
+{"input": "Where is İYTE located?", "output": "İYTE is located in Urla, a district of İzmir on the western coast of Turkey."}
+{"input": "When was İYTE founded?", "output": "İYTE was officially established in 1992."}
+{"input": "What is the primary language of instruction at İYTE?", "output": "The primary language of instruction at İYTE is English."}
+{"input": "Is İYTE a public or private university?", "output": "İYTE is a public university."}
+{"input": "What academic programs does İYTE offer?", "output": "İYTE offers undergraduate, master's, and doctoral programs mainly in science, engineering, and architecture."}
+{"input": "Is İYTE known for research?", "output": "Yes, İYTE is one of Turkey’s leading universities in scientific research and technological development."}
+{"input": "What is the İYTE campus like?", "output": "The İYTE campus is a large, green, and modern area situated near the Aegean Sea, offering research centers, labs, dormitories, and recreational facilities."}
+{"input": "Does İYTE have student dormitories?", "output": "Yes, İYTE offers on-campus dormitory facilities for students."}
+{"input": "How can students apply to İYTE?", "output": "Turkish students apply via the national university entrance exam (YKS), while international students can apply through a dedicated international admissions process."}
+{"input": "Is İYTE a member of any international academic organizations?", "output": "Yes, İYTE collaborates with various international institutions and participates in Erasmus+ and other exchange programs."}
+{"input": "What faculties does İYTE have?", "output": "İYTE has faculties of Engineering, Science, and Architecture."}
+{"input": "Is İYTE involved in international research?", "output": "Yes, İYTE participates in many international research projects and academic collaborations."}
+{"input": "Does İYTE have a graduate school?", "output": "Yes, İYTE has a Graduate School of Engineering and Science."}
+{"input": "What is the motto of İYTE?", "output": "İYTE's motto is 'A Research University in Science and Technology.'"}
+{"input": "What are some notable research centers at İYTE?", "output": "Some of the notable centers include the Biotechnology and Bioengineering Center, and the Solar Energy Institute."}
+{"input": "Can students participate in exchange programs at İYTE?", "output": "Yes, İYTE has Erasmus+ and other international exchange opportunities."}
+{"input": "What kind of student clubs are available at İYTE?", "output": "There are a variety of clubs including robotics, arts, entrepreneurship, and sports clubs."}
+{"input": "What kind of sports facilities does İYTE offer?", "output": "İYTE offers sports halls, outdoor courts, a fitness center, and running tracks."}
+{"input": "What is the student population at İYTE?", "output": "İYTE has a relatively small student population, which fosters a focused academic environment."}
+{"input": "How does İYTE rank among Turkish universities?", "output": "İYTE is consistently ranked among the top technical universities in Turkey, especially for research and innovation."}
+{"input": "Are there scholarships available at İYTE?", "output": "Yes, İYTE offers various scholarships including merit-based and need-based support."}
+{"input": "How far is İYTE from İzmir city center?", "output": "İYTE is approximately 60 kilometers west of İzmir city center."}
+{"input": "Is public transportation available to İYTE?", "output": "Yes, public buses and shuttle services connect İYTE with surrounding areas."}
+{"input": "Does İYTE support innovation and entrepreneurship?", "output": "Yes, İYTE hosts a Technopark and incubation centers that support startups and innovation."}
+{"input": "What is İYTE Teknopark?", "output": "İYTE Teknopark is a technology development zone that promotes collaboration between academia and industry."}
+{"input": "What kind of housing options are near İYTE?", "output": "Besides on-campus dormitories, there are private student housing and rental apartments nearby."}
+{"input": "Is İYTE suitable for international students?", "output": "Yes, İYTE provides a welcoming environment and services for international students."}
+{"input": "What is the vision of İYTE?", "output": "To become a world-class research university recognized globally for its contribution to science and technology."}
+{"input": "Are there master's and PhD programs in English at İYTE?", "output": "Yes, all graduate programs at İYTE are conducted in English."}
+{"input": "Who is the Rector of the IYTE", "output": "Prof. Dr. Yusuf Baran is the rector of the IYTE."}
+{"input": "Who is the lecturer of the SEDS482", "output": "Prof. Dr. Belgin Ergenc Bostanoglu is the lecturer of the SEDS482 ."}
+
