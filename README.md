@@ -1,5 +1,5 @@
-Toprak Zeybek
-Yasin Turk
+- Toprak Zeybek
+- Yasin Turk
 
 ### REQUIREMENTS
 
